@@ -1,0 +1,26 @@
+public class LLStack implements Stack{
+    private
+    public LLStack (){
+
+    }
+    //Return true if this stack is empty, otherwise false.
+    public boolean isEmpty(){
+
+    }
+
+    //Return top element of stack without popping it.
+    public PANCAKE peek(){
+
+    }
+
+    //Pop and return top element of stack.
+    public PANCAKE pop(){
+
+    }
+
+    //Push an element onto top of this stack.
+    public void	push( PANCAKE x ){
+
+    }
+
+}
